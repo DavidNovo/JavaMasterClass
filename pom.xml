@@ -9,6 +9,7 @@
     <module>adventuregame</module>
       <module>JavaMasterClassFX</module>
       <module>JavaMasterClassCollections</module>
+      <module>JavaMasterClassFX</module>
       <module>JavaMasterClassOne</module>
       <module>JavaMasterClassOOP</module>
   </modules>
