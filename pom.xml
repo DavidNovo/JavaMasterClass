@@ -8,6 +8,9 @@
   <modules>
     <module>adventuregame</module>
       <module>JavaMasterClassFX</module>
+      <module>JavaMasterClassCollections</module>
+      <module>JavaMasterClassOne</module>
+      <module>JavaMasterClassOOP</module>
   </modules>
   <name>parent-project</name>
   <url>http://maven.apache.org</url>
